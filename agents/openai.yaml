@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程复习教练"
+  short_description: "从课程材料开始，以逐点讲解、小测批改和持续记录推进复习"
+  default_prompt: "用 $course-review-coach 带我复习这门课，先读已有记录，再从当前进度继续。"
